@@ -1,1 +1,3 @@
 This is exercise-2.txt!
+
+A test for add -p command!
